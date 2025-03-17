@@ -14,6 +14,9 @@ Below is a breakdown of the image counts from various sources in our final datas
 | Roboflow           | 9000                 |
 | **Total Images**    | **9500**             |
 
+    Source - IMFDB (Movie Database) 
+    Annotation Tool - VGG Image Annotator (https://www.robots.ox.ac.uk/~vgg/software/via/via.html)
+
 
 ### Working Notebook 
     November_4.ipynb
