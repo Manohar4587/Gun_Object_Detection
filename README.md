@@ -1,13 +1,22 @@
 # Gun_Object_Detection
 
-### Data 
-    Source - IMFDB (Movie Database) 
-    Annotation Tool - VGG Image Annotator (https://www.robots.ox.ac.uk/~vgg/software/via/via.html)
-    Gun_300\train --> 248 Images , 1 Annotation File
-    Gun_300\val   --> 47 Images , 1 Annotation File
+### Dataset Overview
+
+Below is a breakdown of the image counts from various sources in our final dataset:
+
+| **Datasource**       | **Number of Images** |
+|----------------------|----------------------|
+| IMFDB               | 150                  |
+| Monash Guns        | 100                  |
+| Real-time CCTV images | 100                  |
+| GenAI prompts      | 100                  |
+| Benign             | 50                   |
+| Roboflow           | 9000                 |
+| **Total Images**    | **9500**             |
+
 
 ### Working Notebook 
-    Gun_Detection_300.ipynb
+    November_4.ipynb
 
 ### Pre-Req files
     utils.py 
@@ -21,6 +30,6 @@
     requirements.txt
 
 ### Instructions
-    Gun_Detection_300.ipynb - notebook contains the path to train the model, save it and get the prediction results with the saved model. 
+    November_4.ipynb - notebook contains the path to train the model, save it and get the prediction results with the saved model. 
     Saved model is not provided here due to memory constraints. This repo can be cloned in order to use this Faster-RCNN model to fine tune your custom dataset. 
 
