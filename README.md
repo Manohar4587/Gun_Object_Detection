@@ -1,5 +1,7 @@
 # Gun_Object_Detection
 
+We are  excited to share that our paper has been published on arXiv! 🎉 You can check it out here: [Gun Detection Using Combined Human Pose and Weapon Appearance](http://arxiv.org/abs/2503.12215)
+
 ### Dataset Overview
 
 Below is a breakdown of the image counts from various sources in our final dataset:
