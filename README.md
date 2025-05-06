@@ -35,5 +35,5 @@ Annotation Tool - VGG Image Annotator (https://www.robots.ox.ac.uk/~vgg/software
 
 ### Instructions
     November_4.ipynb - notebook contains the path to train the model, save it and get the prediction results with the saved model. 
-    Saved model is not provided here due to memory constraints. This repo can be cloned in order to use this Faster-RCNN model to fine tune your custom dataset. 
+    Saved model is not provided here due to memory constraints. This repo can be cloned in order to use this YOLOv8 model to fine tune your custom dataset. 
 
